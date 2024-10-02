@@ -12,7 +12,7 @@ The current configuration makes life tables for each sex and separates by group 
 ### DemoTools
 Riffe T, Aburto JM, Alexander M,Fennell S, Kashnitsky I, Pascariu M and Gerland P. (2019). DemoTools: An R package of tools for aggregate demographic analysis. URL: https://github.com/timriffe/DemoTools/
 
-### Child mortality rate (CMR) reference
+### Reference for Child Mortality Rate (CMR)
 Volk, A. A., & Atkinson, J. A. (2013). Infant and child death in the human environment of evolutionary adaptation. Evolution and Human Behavior, 34(3), 182–192. https://doi.org/10.1016/j.evolhumbehav.2012.11.007
 
 ## Data
