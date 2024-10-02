@@ -38,6 +38,7 @@ Below are the assumptions that were made for age categories in the data set. All
 
 ### Input Format
 |ID|site|group|sex|from|to|from_class|to_class|
+|-|-|-|-|-|-|-|-|
 
 - ID = ID of skeletal remains
 - Site = Site where the remains are from
