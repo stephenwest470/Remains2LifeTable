@@ -37,14 +37,16 @@ Below are the assumptions that were made for age categories in the data set. All
 
 
 ### Input Format
-ID,site,group,sex,from,to,from_class,to_class
+|ID|site|group|sex|from|to|from_class|to_class|
+
+- ID = ID of skeletal remains
+- Site = Site where the remains are from
+- group = population (culture)*
+- sex = m (male), f (female), or x (unknown)*
+- from = age estimate lower bound*
+- to = age estimate, upper bound*
+- from_class = from age class (e.g. at a minimum, an infant)
+- to_class = from age class (e.g. at a maximum, a child)
+
 (* = required)
 
-ID = ID of skeletal remains
-Site = Site where the remains are from
-group = population (culture)*
-sex = m (male), f (female), or x (unknown)*
-from = age estimate lower bound*
-to = age estimate, upper bound*
-from_class = from age class (e.g. at a minimum, an infant)
-to_class = from age class (e.g. at a maximum, a child)
