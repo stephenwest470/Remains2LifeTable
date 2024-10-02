@@ -1,7 +1,7 @@
 # Remains2LifeTable
 This is a script for converting skeletal remains w/ age estimates into an extrapolated model life table. The results are used by Pax Sapientica for the Yayoi period agent-based simulation. It primarily uses two packages: mortAAR and DemoTools. 
 
-The current configuration makes life tables for each sex and separates by group (i.e. population). It allows for the input of infant & child mortality parameters, which override skeletal data. Current child mortality settings are based on Volk & Atkinson (2013)
+The current configuration makes life tables for each sex and separates skeletal remains by group (i.e. population). It allows for the input of infant & child mortality parameters, which override skeletal data. Current child mortality settings are based on Volk & Atkinson (2013)
 
 ### Pax Sapientica 
 (https://github.com/AsPJT/PAX_SAPIENTICA)
