@@ -47,7 +47,7 @@ Below are the assumptions that were made for age categories in the data set. All
 - from = age estimate lower bound*
 - to = age estimate, upper bound*
 - from_class = from age class (e.g. at a minimum, an infant)
-- to_class = from age class (e.g. at a maximum, a child)
+- to_class = to age class (e.g. at a maximum, a child)
 
 (* = required)
 
