@@ -1,7 +1,9 @@
 # Remains2LifeTable
-This is a script for converting skeletal remains w/ age estimates into an extrapolated model life table. The results are used by Pax Sapientica for the Yayoi period agent-based simulation. It primarily uses two packages: mortAAR and DemoTools. 
+This is a script for converting skeletal remains w/ age estimates into an extrapolated model life table. The results were used for an agent-based simulation of the Yayoi period using Pax Sapientica, presented at the [78th Annual Meeting of the Anthropological Society of Japan](https://github.com/stephenwest470/PAXS-papers/tree/main/2024-ASN).
 
-The current configuration makes life tables for each sex and separates skeletal remains by group (i.e. population). It allows for the input of infant & child mortality parameters, which override skeletal data. Current child mortality settings are based on Volk & Atkinson (2013)
+It primarily uses two packages: mortAAR and DemoTools. 
+
+The current configuration makes life tables for each sex and separates skeletal remains by group (i.e. population). It allows for the input of infant & child mortality parameters, which override skeletal data. Current child mortality settings are based on Volk & Atkinson (2013).
 
 ### Pax Sapientica 
 (https://github.com/AsPJT/PAX_SAPIENTICA)
@@ -23,7 +25,7 @@ Input data in csv format (input.csv), and adjust the script to suit your needs. 
 ### Age category classification
 Below are the assumptions that were made for age categories in the data set. All data modification was done out of script
 
-|年齢 |年齢1|年齢2|name        |
+|年齢 |age1|age2|name        |
 |---|---|---|------------|
 |乳児 |0  |1  |infant      |
 |幼児 |0  |5  |toddler     |
