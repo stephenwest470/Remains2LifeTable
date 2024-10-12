@@ -9,7 +9,7 @@ The current configuration makes life tables for each sex and separates skeletal 
 (https://github.com/AsPJT/PAX_SAPIENTICA)
 
 ### MortAAR
-Mueller-Scheessel, N., Hinz, M., Schmid, C., Rinne, C., Knitter, D., Hamer, W., ... & Grunert, N. (2018). mortAAR: Analysis of Archaeological Mortality Data. https://github.com/ISAAKiel/mortAAR.
+Mueller-Scheessel, N., Hinz, M., Schmid, C., Rinne, C., Knitter, D., Hamer, W., ... & Grunert, N. (2018). mortAAR: Analysis of Archaeological Mortality Data. URL: https://github.com/ISAAKiel/mortAAR
 
 ### DemoTools
 Riffe T, Aburto JM, Alexander M,Fennell S, Kashnitsky I, Pascariu M and Gerland P. (2019). DemoTools: An R package of tools for aggregate demographic analysis. URL: https://github.com/timriffe/DemoTools/
